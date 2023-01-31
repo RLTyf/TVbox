@@ -9,7 +9,7 @@
 
 
 // 直播源
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2xlZXpuL2xhbmppbmdfbGl2ZS9ibG9iL2ZjYTE4NjllNWY0OWQ2MTRkNDY5ZDgwZWMzOWZjNGEzMTA2MjVkMGEvSVBUVl9GUkVFLyVFOCVBMSVBNSVFNSU4NSU4NSVFNiU5NiVCMElQVjYudHh0=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1JMVHlmL1RWYm94L2Jsb2IvbWFpbi9saXZlLnR4dA=="]}]}],
 //壁纸
 //"wallpaper":"http://maoyingshi.cc/api.php",
 "wallpaper":"https://qiu.moe/a723",
