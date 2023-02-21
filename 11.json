@@ -5,11 +5,11 @@
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42D456EB3E86D53575B834FB85D38079",
 //"spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
-"spider": "https://agit.ai/CloudMist/TVBox/raw/branch/master/duo.jar;md5;9911B181CCC6865AB387B4BCA1F7C172",
+"spider": "https://raw.githubusercontent.com/RLTyf/TVbox/main/duo.jar",
 
 
 // 直播源
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xlZXpuL2xhbmppbmdfbGl2ZS9tYWluL0lQVFZfRlJFRS8lRTglQTElQTUlRTUlODUlODUlRTYlOTYlQjBJUFY2LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1JMVHlmL1RWYm94L21haW4vbGl2ZS50eHQ="]}]}],
 //壁纸
 //"wallpaper":"http://maoyingshi.cc/api.php",
 "wallpaper":"https://qiu.moe/a723",
